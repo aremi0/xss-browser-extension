@@ -1,7 +1,7 @@
 ### Initial Release
 
 # XSS Browser Extension
-Simple extension that can color the <body> of browsers tab, search things and inject JS code file to the active tab.
+Simple extension that can color the body of browsers tab, search things and inject JS code file to the active tab.
 For Inject a default harmless js file just press the search button with empty search bar.
   
 

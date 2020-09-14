@@ -1,0 +1,40 @@
+/* main styles */
+* {
+    font-family: 'Segoe UI';
+}
+
+body {
+    width: 220px;
+}
+
+header {
+    font-weight: 800;
+    font-size: .9em;
+}
+
+p {
+    font-weight: 500;
+    font-size: .8em;
+    margin-bottom: 10px;  
+}
+
+button {
+    height: 30px;
+    width: 30px;
+    outline: none;
+    margin: 10px;
+}
+
+.search-bar {
+    display: inline-block;
+    width: 80%;
+}
+
+svg{
+    margin-top: -1px;
+    display: inline-block;
+    position: absolute;
+    cursor: pointer;
+    border: 1px solid #000;
+    background-color: crimson;
+}
